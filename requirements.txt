@@ -1,0 +1,8 @@
+apache-airflow-providers-postgres
+psycopg2-binary
+pandas
+SQLAlchemy
+pytest
+black
+ruff
+yfinance
