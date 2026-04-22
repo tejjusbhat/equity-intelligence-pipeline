@@ -2,5 +2,5 @@ apache-airflow==2.9.3
 apache-airflow-providers-postgres==5.11.1
 psycopg2-binary==2.9.9
 pandas==2.2.2
-yfinance==0.2.41
+yfinance==0.2.66
 sqlalchemy==1.4.52
